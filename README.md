@@ -20,7 +20,7 @@ The application generates a detailed, coordinate-based grid map and a checklist,
 ## 📖 How It Works
 
 ### 1. Match Engine
-The application downsamples your uploaded image and matches each pixel's color profile to the average color of a Panini sticker in the database. 
+The application downsamples your uploaded image and matches each color to the color of a Panini sticker.
 
 For example, a cyan-blue pixel might match the **Argentina** kit:
 
