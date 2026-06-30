@@ -25,7 +25,7 @@ The application downsamples your uploaded image and matches each pixel's color p
 For example, a cyan-blue pixel might match the **Argentina** kit:
 
 <div align="center">
-  <img src="all_stickers/players_normalized/ARG_17.png" alt="ARG_17 - Lionel Messi" width="100">
+  <img src="ARG_17.png" alt="ARG_17 - Lionel Messi" width="100">
   <p><i>ARG_17 - Lionel Messi (used as a matching color tile)</i></p>
 </div>
 
